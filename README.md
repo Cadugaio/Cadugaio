@@ -1,6 +1,7 @@
 Hi there, I'm Cadu! 👋
 
 💻 About Me
+
 I'm a pharmacist transitioning into the world of programming. I'm passionate about learning new technologies and applying my skills to real-world projects. 
 Currently, I'm focusing have the goal of becoming a full time developer.
 
