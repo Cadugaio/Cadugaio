@@ -15,4 +15,5 @@ I'm passionate about leading a healthy and balanced life.
 📫 How to reach me:
 
 Email: carloseduardogaio@hotmail.com
+
 LinkedIn: www.linkedin.com/in/cadu-gaio
